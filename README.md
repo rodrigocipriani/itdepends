@@ -1,4 +1,6 @@
-[Check index.md for more details](index.md)
+For more insights and a deeper dive into the "it depends" mentality, check out the page:
+
+[It Depends](https://rodrigocipriani.github.io/itdepends/)
 
 ---
 
